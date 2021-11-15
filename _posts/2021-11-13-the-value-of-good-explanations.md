@@ -28,8 +28,8 @@ Consider the following:
 
 What does this tell you about the market?
 
-Everyone in academia has two roles: reader and writer.
-In each role, we are faced with complementary problems.
+Everyone in academia reads and writes academic works.
+Both as a reader and as a writer, we are faced with complementary problems.
 As a reader, we are faced with massive amounts of interpretive labor, not to forget the filtering we have to do to avoid wasting our time on publications that are not worthwhile.
 As a writer, we are in constant fear of loosing our funding or not reaching our career goals if we don't spam the field with uninspired write-ups of our work.
 
@@ -38,11 +38,11 @@ Have a paper format that is dedicated purely to explaining an existing idea or p
 Review papers have already proven to be quite useful, why only go into breadth and not into depth?
 
 If the scientific community started accepting explanation papers when selling careers, people would have an incentive to do something useful when mining career coin instead of contributing to the noise and making it harder for everyone else to sift through the garbage.
-If academics started contributing explanations for existing ideas in large numbers, this would not add to the noise.
+If academics started contributing explanations for existing ideas in large numbers, this would not even add to the noise.
 On the contrary:
 For explanations, redundancy is *good*.
 Not only does a great variety of explanations account for the variability in learning preferences, it also doesn't contribute to the pile of research debt.
-Once you have gained a deep enough understanding of an idea, you can ignore all the other explainer papers on that idea.
+Once you have gained a deep enough understanding of an idea, you can ignore all the other explanation papers on that idea.
 
 Explaining an existing idea can be done properly much more reliably than cutting-edge research.
 Sometimes, your ideas don't work out the way you envisioned.
