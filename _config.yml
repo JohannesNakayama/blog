@@ -25,7 +25,7 @@ github_username: JohannesNakayama
 
 # Build settings
 markdown: kramdown
-remote_theme: JohannesNakayama/athena
+# remote_theme: JohannesNakayama/athena
 
 plugins:
   - jekyll-feed

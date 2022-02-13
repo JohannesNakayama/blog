@@ -50,8 +50,7 @@ Sometimes, you just can't come up with something innovative and useful.
 That's normal and it shouldn't hurt your future prospects of working in the field per se.
 Providing good explanations and doing the interpretive labor should be regarded equally highly as contributing new ideas.
 
-<br>
-<br>
+<hr>
 
-<span style="font-size: 15pt">*[1] <a href="https://doi.org/10.23915/distill.00005" target="_blank">Olah & Carter, "Research Debt", Distill, 2017.</a> This article goes into more depth with regard to the concept of research debt. The authors give some ideas on how to create an ecosystem for explanations and research distillation. It's a fantastic read (and short, if you're pressed for time!). What I wanted to add with this post is the idea, that unhealthy incentives in the current publication system lead to the publication of many papers that are not worthwhile and that these incentives could instead be leveraged to do a lot of potential good without causing harm.*</span>
+*[1] <a class="ref-link" href="https://doi.org/10.23915/distill.00005" target="_blank">Olah & Carter, "Research Debt", Distill, 2017.</a> This article goes into more depth with regard to the concept of research debt. The authors give some ideas on how to create an ecosystem for explanations and research distillation. It's a fantastic read (and short, if you're pressed for time!). What I wanted to add with this post is the idea, that unhealthy incentives in the current publication system lead to the publication of many papers that are not worthwhile and that these incentives could instead be leveraged to do a lot of potential good without causing harm.*
 
